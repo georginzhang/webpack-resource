@@ -1,0 +1,15 @@
+{
+  "name": "zw-pack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "bin": {
+    "zw-pack": "./bin/zw-pack.js"
+  },
+  "dependencies": {
+    "@babel/core": "^7.4.3",
+    "@babel/parser": "^7.4.3",
+    "@babel/preset-env": "^7.4.3",
+    "@babel/traverse": "^7.4.3"
+  }
+}
